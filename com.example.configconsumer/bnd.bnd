@@ -1,0 +1,7 @@
+-buildpath: \
+	osgi.cmpn,\
+	osgi.annotation,\
+	osgi.core,\
+	org.osgi.service.metatype.annotations,\
+	com.example.configprovider;version=latest
+-privatepackage: com.example.configconsumer

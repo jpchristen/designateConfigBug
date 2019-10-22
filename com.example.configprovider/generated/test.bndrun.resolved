@@ -1,0 +1,2 @@
+org.apache.felix.scr;version='[2.1.10,2.1.11)';resolution=file:/C:/Users/christen/.m2/repository/org/apache/felix/org.apache.felix.scr/2.1.10/org.apache.felix.scr-2.1.10.jar
+com.example.configprovider;version=snapshot;resolution=file:/C:/Users/christen/bnd_bug_bnd_workspace/com.example.configprovider/generated/com.example.configprovider.jar

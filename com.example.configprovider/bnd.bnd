@@ -1,0 +1,6 @@
+-buildpath: \
+	osgi.cmpn,\
+	osgi.annotation,\
+	osgi.core,\
+	org.osgi.service.metatype.annotations
+Export-Package: com.example.configprovider
